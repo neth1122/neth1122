@@ -1,12 +1,31 @@
-- 👋 Hi, I’m @neth1122
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning frontend web development 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me https://wa.me/+2349019117202
-- 😄 Pronouns: he
-- ⚡ Fun fact: ...
+Hi, I’m Nethanel (@neth1122)
 
-<!---
-neth1122/neth1122 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Frontend web developer focused on building responsive, performant, and maintainable user interfaces. I translate UI designs into clean, functional web experiences and prioritize clarity, speed, and usability.
+
+Core skills
+- HTML5, CSS3, JavaScript (ES6+)
+- Bootstrap
+- React.js (working knowledge)
+- MySQL 
+- Responsive and mobile-first development
+- UI implementation and frontend logic
+
+Experience highlights
+- Built API-driven projects (quote generator)
+- Developed e-commerce interfaces with cart and product logic
+- Created admin dashboards with authentication and CRUD features
+- Delivered SEO-friendly and performance-optimized landing pages
+
+What I bring
+- Strong attention to detail in UI implementation
+- Ability to work from designs and requirements
+- Clean, readable, and maintainable code
+- Willingness to learn quickly and improve continuously
+
+Open to
+- Frontend roles
+- Contract or full-time opportunities
+- Collaboration on production-ready web projects
+
+Contact
+WhatsApp: https://wa.me/2349019117202
