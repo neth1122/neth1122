@@ -6,6 +6,7 @@ Core skills
 - HTML5, CSS3, JavaScript (ES6+)
 - Bootstrap
 - React.js (working knowledge)
+- VueJs
 - MySQL 
 - Responsive and mobile-first development
 - UI implementation and frontend logic
