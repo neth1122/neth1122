@@ -1,4 +1,4 @@
-Hi, I’m Nethanel (@neth1122)
+Hi, I’m Nethanel Enedeh (@neth1122)
 
 Frontend web developer focused on building responsive, performant, and maintainable user interfaces. I translate UI designs into clean, functional web experiences and prioritize clarity, speed, and usability.
 
